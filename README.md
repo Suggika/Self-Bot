@@ -1,7 +1,6 @@
 [Self-Bot](https://github.com/Suggika/Self-Bot)
-
-![👉](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
 ---------------------------------
+![👉](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
 
 Простой в освоении селф-бот для Discord, скачав который Вы сможете:
 ---------------------------------

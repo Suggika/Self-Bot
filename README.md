@@ -1,5 +1,4 @@
-[Showcase](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
-
+[Download](https://github.com/Suggika/Self-Bot)
 
 
 Простой в освоении селф-бот для Discord, скачав который Вы сможете:

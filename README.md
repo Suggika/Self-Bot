@@ -1,4 +1,4 @@
-[Showcase](https://github.com/jon/coolproject/raw/master/image/image.png)
+[Showcase](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
 
 
 

@@ -2,7 +2,7 @@
 ---------------------------------
 
 Простой в освоении селф-бот для Discord, скачав который Вы сможете:
-[](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
+[322](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
 ---------------------------------
 ✅  Установливать свой собственный статус активности(streaming, watching и т.п)
 ---------------------------------

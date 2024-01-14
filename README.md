@@ -1,4 +1,4 @@
-[Self-Bot](https://github.com/Suggika/Self-Bot.git)
+[Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Suggika/Self-Bot)
 ---------------------------------
 ![👉](https://github.com/Suggika/Self-Bot/blob/main/showcase.png)
 
